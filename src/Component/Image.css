@@ -1,0 +1,93 @@
+.ImageConatiner{
+    width: 100%;
+    height: 140vh;
+    /* border: 2px solid rgb(94, 255, 0); */
+}
+.uperImages{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    /* border: 2px solid plum; */
+}
+.image1{
+    width: 22%;
+    height: 30vh;
+    /* border: 2px solid rebeccapurple; */
+}
+.fit{
+    width: 100%;
+    height: 100%;
+}
+
+.image2{
+    width: 22%;
+    height: 30vh;
+    /* border: 2px solid green; */
+}
+.fit2{
+    width: 100%;
+    height: 100%;
+}
+.image3{
+    width: 50%;
+    height: 70vh;
+    z-index: 2;
+    margin-left: -27px;
+    /* border: 2px solid black; */
+}
+.fit3{
+    width: 100%;
+    height: 100%;
+}
+
+
+.lowerImages{
+    display: flex;
+    justify-content: space-evenly;
+    /* border: 2px solid yellow; */
+}
+.image4{
+    width: 50%;
+    height: 70vh;
+    margin-top: -13rem;
+    /* border: 2px solid black; */
+}
+.image5{
+    width: 22%;
+    height: 30.5vh;
+    margin-left: -29px;
+    z-index: 5;
+    margin-top: 10px;
+    /* border: 2px solid pink; */
+}
+.image6{
+    width: 22%;
+    height: 30.5vh;
+    margin-top: 10px;
+    /* border: 2px solid pink; */
+}
+.fit4{
+    width: 100%;
+    height: 100%;
+}
+.fit5{
+    width: 100%;
+    height: 100%;
+}
+.fit6{
+    width: 100%;
+    height: 100%;
+}
+
+.search{
+    width: 100%;
+    height: 20vh;
+    margin-top: 70px;
+    padding-left: 23px;
+    /* border: 2px solid red; */
+}
+.searchInp{
+    width: 95%;
+    padding: 8px;
+    padding-left: 15px;
+}
